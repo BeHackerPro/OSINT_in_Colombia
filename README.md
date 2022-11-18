@@ -28,4 +28,4 @@ https://play.google.com/store/apps/details?id=se.verifique.app.cedula
 
 ## **flowchart of how to investigate a person in colombia**
 
-![image](https://user-images.githubusercontent.com/105987889/202801612-1523807c-3ae3-408a-ac47-767711cc7eeb.png)
+![image](https://user-images.githubusercontent.com/105987889/202801839-2a4ff328-42aa-469e-b93d-99901049f6b7.png)
