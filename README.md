@@ -4,7 +4,7 @@ resources to perform osint tasks and processes in the country of colombia
 
 ## **search info of a personal identification**
 
-###NOTE: in colombia the personal number of identification is called "cedula"
+### NOTE: in colombia the personal number of identification is called "cedula"
 
 
 * affiliated health system -https://www.adres.gov.co/consulte-su-eps 
