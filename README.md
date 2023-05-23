@@ -20,6 +20,7 @@ resources to perform osint tasks and processes in the country of colombia
 * Certificate of your Military Card https://www.libretamilitar.mil.co/Modules/Consult/MilitaryCardCertificate
 * SYSTEM FOR THE IDENTIFICATION OF POTENTIAL BENEFICIARIES OF SOCIAL PROGRAMS (SISBEN)  https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx
 * RUNT - Registro Único Nacional de Transito (National Traffic Registry) https://www.runt.com.co/consultaCiudadana/#/consultaPersona
+* background check in procuraduria https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx
 
 
 ###APPS
